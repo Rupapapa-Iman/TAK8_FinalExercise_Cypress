@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Final Exercise Cypress TAK batch 8\r Iman Hilman Firmansyah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress_run_cloud": "cypress run --record --key d2c571c0-ca89-449e-b5a2-26ebe5333def"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
